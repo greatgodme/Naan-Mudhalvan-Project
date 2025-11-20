@@ -1,7 +1,3 @@
-# Naan-Mudhalvan-Project
-
-
----
 
 # Image Resolution Enhancer
 
